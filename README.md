@@ -13,12 +13,13 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 * Date: 7/2021
 * Description: This repository contains the code and data to perform monthly water balance calculations using remote sensing and in situ data for the Central Valley (CV) and Central Valley Watershed (CVWS) of California. Files describing the geographic domain are stored in the `shape` directory. Scripts to download and process data, and generate figures and results are stored in the `code` directory. Instructions to install the required software dependencies are in the `build` directory. Figures and images are stored in the `images` directory. Below is a list of URLS containing additional datasets for the CV and CVWS. 
 
-<img src="/images/Figure1.png" width="300"> <br>
+<img src="figures/Figure1.png" width="300"> <br>
 Study domain
 
-# More information about data used or queried in this repository can be found in the manuscript text and in the references section. 
-![](/images/cvws_et.gif) <br> 
-SSEBop ET in the CVWS
+<img src="figures/Figure3.png" width="500"> <br>
+Central Valley Results
+
+# More information about data used or queried in this repository can be found in the manuscript text, Table 1, and in the references section of the paper. 
 
 ## Remote Sensing and Satellite Data - Various sources
 [Google Earth Engine](https://developers.google.com/earth-engine/datasets/)
