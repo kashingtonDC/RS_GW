@@ -16,9 +16,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <img src="figures/Figure1.png" width="300"> <br>
 Study domain
 
-<img src="figures/Figure3.png" width="500"> <br>
-Central Valley Results
-
 # More information about data used or queried in this repository can be found in the manuscript text, Table 1, and in the references section of the paper. 
 
 ## Remote Sensing and Satellite Data - Various sources
